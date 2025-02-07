@@ -1,2 +1,2 @@
 # brushing-up-on-C++
-Projects built while brushing up on C++ and learning new C++ concepts.
+Projects built while brushing up on my C++ fundamentals and learning new C++ concepts.
